@@ -1,0 +1,12 @@
+1. Download the SQlite3 files from SQlite.org
+sqlite-amalgamation-3300100.zip
+
+2. Add the sqlite3.c file to the Sources Files Folder as an existing file
+note: This is the only file from the download you need.
+
+3. NuGet Package Manager:
+Install sqlite3_c_plus_plus by Dawlin Pena and Allam Gallan
+
+4. Add #include <sqlite3.h>
+
+5. Code!
